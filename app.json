@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "chacha-coloring-ios",
+    "slug": "chacha-coloring-ios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "chacha-coloring-ios"
+}

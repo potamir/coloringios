@@ -10,11 +10,48 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		17C67CCF881145BB83204A1F /* Overpass-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDD74CEA50A743BEA034A38C /* Overpass-ExtraBold.ttf */; };
+		272AA561BD65486DB9EF26E9 /* Helvetica-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6137E1CE98014D4ABF5F4EBE /* Helvetica-Oblique.ttf */; };
+		3263EAAC259D42D79FDC2049 /* Overpass-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A83FF2F3E4C0415190AA2971 /* Overpass-Bold.ttf */; };
+		36CD5AE3936D4FC9BFA4C82E /* helvetica-compressed-5871d14b6903a.otf in Resources */ = {isa = PBXBuildFile; fileRef = F1A3153D356D40918A1D0530 /* helvetica-compressed-5871d14b6903a.otf */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
-		96905EF65AED1B983A6B3ABC /* libPods-chachacoloringios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-chachacoloringios.a */; };
+		47C4CC51650F4E54B92518FB /* Avenir.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 3338F4834AFC4B6EBEE79D0E /* Avenir.ttc */; };
+		4E43C5AA61A94B518C2BA6A6 /* Helvetica.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 15507686AF714655A7FC93E5 /* Helvetica.ttf */; };
+		50C386E4CDD24D6784048A00 /* Atma-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3155F3EB3D6F41D69AEDC238 /* Atma-Light.ttf */; };
+		5A11B02FA6D34F39A9A413D4 /* Atma-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51C4B89C34DA4997A22E6713 /* Atma-Bold.ttf */; };
+		5B0FB1D22812A45A00FFFD32 /* UnityFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BAF29F52810576800F4EAEC /* UnityFramework.framework */; };
+		5B0FB1D32812A45A00FFFD32 /* UnityFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 5BAF29F52810576800F4EAEC /* UnityFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		6B0F57AFCD2B403F8FB9EC6D /* Avenir.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B10A7B6006A44799D6664CB /* Avenir.otf */; };
+		789F9CF9B5FC4442AF9EDB66 /* Atma-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 266F43B51C5F4F4C9D764E6C /* Atma-SemiBold.ttf */; };
+		8BE5529E548C4BE3A35F09AF /* Helvetica-BoldOblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE257F6F892847D49E94C0AD /* Helvetica-BoldOblique.ttf */; };
+		930ABCB62EEF4994B532242F /* Helvetica-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 45014994557A4EC587FF3A72 /* Helvetica-Bold.ttf */; };
+		93B1DCD293A7424EBDCB7F8F /* Matilda.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB448CC0664A4679B931BCF4 /* Matilda.ttf */; };
+		95BCBA4D95AF2DA2EC88B4DB /* libPods-chachacoloringios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CBEBBDD36D29600B144F3951 /* libPods-chachacoloringios.a */; };
+		9BCA6D34FFF44D5BA6ABF50C /* UVNChimBienNhe.TTF in Resources */ = {isa = PBXBuildFile; fileRef = D6F2093A18034F27A96AF0DF /* UVNChimBienNhe.TTF */; };
+		9ED8F4548B6342B588DFDC97 /* fontello.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD7D0B97A22049588A38327D /* fontello.ttf */; };
+		A3955C62566D4F78AAE6665B /* Elysian.otf in Resources */ = {isa = PBXBuildFile; fileRef = A140A654C99E493BBA14F9C9 /* Elysian.otf */; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
+		BD0376D55DFE4822BF4F3750 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6CC4C808201248BB8A7A3AF0 /* OpenSans-Bold.ttf */; };
+		C95E081519D4443B9D28677B /* helvetica-light-587ebe5a59211.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0DD0364E9E144EFB96477C9 /* helvetica-light-587ebe5a59211.ttf */; };
+		EBF4A003F82641B18AE78A98 /* Atma-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2DD90FCC3EE4C32B80597C9 /* Atma-Medium.ttf */; };
+		F88E1C7C70E74A1C95F25908 /* helvetica-rounded-bold-5871d05ead8de.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B69C980A34740B68150D7B7 /* helvetica-rounded-bold-5871d05ead8de.otf */; };
+		FF85AA34778742E288478C65 /* Atma-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D3CF33388434AAEA3387696 /* Atma-Regular.ttf */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5B0FB1D42812A45A00FFFD32 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				5B0FB1D32812A45A00FFFD32 /* UnityFramework.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
@@ -24,13 +61,35 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = chachacoloringios/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = chachacoloringios/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = chachacoloringios/main.m; sourceTree = "<group>"; };
-		58EEBF8E8E6FB1BC6CAF49B5 /* libPods-chachacoloringios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chachacoloringios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6C2E3173556A471DD304B334 /* Pods-chachacoloringios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chachacoloringios.debug.xcconfig"; path = "Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios.debug.xcconfig"; sourceTree = "<group>"; };
-		7A4D352CD337FB3A3BF06240 /* Pods-chachacoloringios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chachacoloringios.release.xcconfig"; path = "Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios.release.xcconfig"; sourceTree = "<group>"; };
+		15507686AF714655A7FC93E5 /* Helvetica.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Helvetica.ttf; path = ../app/res/assets/fonts/Helvetica.ttf; sourceTree = "<group>"; };
+		1D881911D04B1292CE7D5FD5 /* Pods-chachacoloringios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chachacoloringios.debug.xcconfig"; path = "Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios.debug.xcconfig"; sourceTree = "<group>"; };
+		266F43B51C5F4F4C9D764E6C /* Atma-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Atma-SemiBold.ttf"; path = "../app/res/assets/fonts/Atma-SemiBold.ttf"; sourceTree = "<group>"; };
+		3155F3EB3D6F41D69AEDC238 /* Atma-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Atma-Light.ttf"; path = "../app/res/assets/fonts/Atma-Light.ttf"; sourceTree = "<group>"; };
+		3338F4834AFC4B6EBEE79D0E /* Avenir.ttc */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Avenir.ttc; path = ../app/res/assets/fonts/Avenir.ttc; sourceTree = "<group>"; };
+		45014994557A4EC587FF3A72 /* Helvetica-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Helvetica-Bold.ttf"; path = "../app/res/assets/fonts/Helvetica-Bold.ttf"; sourceTree = "<group>"; };
+		51C4B89C34DA4997A22E6713 /* Atma-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Atma-Bold.ttf"; path = "../app/res/assets/fonts/Atma-Bold.ttf"; sourceTree = "<group>"; };
+		5B10A7B6006A44799D6664CB /* Avenir.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Avenir.otf; path = ../app/res/assets/fonts/Avenir.otf; sourceTree = "<group>"; };
+		5BAF29F52810576800F4EAEC /* UnityFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = UnityFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D3CF33388434AAEA3387696 /* Atma-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Atma-Regular.ttf"; path = "../app/res/assets/fonts/Atma-Regular.ttf"; sourceTree = "<group>"; };
+		6137E1CE98014D4ABF5F4EBE /* Helvetica-Oblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Helvetica-Oblique.ttf"; path = "../app/res/assets/fonts/Helvetica-Oblique.ttf"; sourceTree = "<group>"; };
+		6CC4C808201248BB8A7A3AF0 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Bold.ttf"; path = "../app/res/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		7F1EEA9846822CAD2502A045 /* Pods-chachacoloringios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chachacoloringios.release.xcconfig"; path = "Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios.release.xcconfig"; sourceTree = "<group>"; };
+		9B69C980A34740B68150D7B7 /* helvetica-rounded-bold-5871d05ead8de.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "helvetica-rounded-bold-5871d05ead8de.otf"; path = "../app/res/assets/fonts/helvetica-rounded-bold-5871d05ead8de.otf"; sourceTree = "<group>"; };
+		A140A654C99E493BBA14F9C9 /* Elysian.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Elysian.otf; path = ../app/res/assets/fonts/Elysian.otf; sourceTree = "<group>"; };
+		A2DD90FCC3EE4C32B80597C9 /* Atma-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Atma-Medium.ttf"; path = "../app/res/assets/fonts/Atma-Medium.ttf"; sourceTree = "<group>"; };
+		A83FF2F3E4C0415190AA2971 /* Overpass-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Overpass-Bold.ttf"; path = "../app/res/assets/fonts/Overpass-Bold.ttf"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = chachacoloringios/SplashScreen.storyboard; sourceTree = "<group>"; };
+		AD7D0B97A22049588A38327D /* fontello.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = fontello.ttf; path = ../app/res/assets/fonts/fontello.ttf; sourceTree = "<group>"; };
+		B0DD0364E9E144EFB96477C9 /* helvetica-light-587ebe5a59211.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "helvetica-light-587ebe5a59211.ttf"; path = "../app/res/assets/fonts/helvetica-light-587ebe5a59211.ttf"; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
+		CBEBBDD36D29600B144F3951 /* libPods-chachacoloringios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chachacoloringios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6F2093A18034F27A96AF0DF /* UVNChimBienNhe.TTF */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = UVNChimBienNhe.TTF; path = ../app/res/assets/fonts/UVNChimBienNhe.TTF; sourceTree = "<group>"; };
+		DE257F6F892847D49E94C0AD /* Helvetica-BoldOblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Helvetica-BoldOblique.ttf"; path = "../app/res/assets/fonts/Helvetica-BoldOblique.ttf"; sourceTree = "<group>"; };
+		EB448CC0664A4679B931BCF4 /* Matilda.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Matilda.ttf; path = ../app/res/assets/fonts/Matilda.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F1A3153D356D40918A1D0530 /* helvetica-compressed-5871d14b6903a.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "helvetica-compressed-5871d14b6903a.otf"; path = "../app/res/assets/fonts/helvetica-compressed-5871d14b6903a.otf"; sourceTree = "<group>"; };
 		FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-chachacoloringios/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
+		FDD74CEA50A743BEA034A38C /* Overpass-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Overpass-ExtraBold.ttf"; path = "../app/res/assets/fonts/Overpass-ExtraBold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,7 +97,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96905EF65AED1B983A6B3ABC /* libPods-chachacoloringios.a in Frameworks */,
+				95BCBA4D95AF2DA2EC88B4DB /* libPods-chachacoloringios.a in Frameworks */,
+				5B0FB1D22812A45A00FFFD32 /* UnityFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,10 +123,39 @@
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5BAF29F52810576800F4EAEC /* UnityFramework.framework */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				58EEBF8E8E6FB1BC6CAF49B5 /* libPods-chachacoloringios.a */,
+				CBEBBDD36D29600B144F3951 /* libPods-chachacoloringios.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7BAEF651591A4E5DA1D32069 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				51C4B89C34DA4997A22E6713 /* Atma-Bold.ttf */,
+				3155F3EB3D6F41D69AEDC238 /* Atma-Light.ttf */,
+				A2DD90FCC3EE4C32B80597C9 /* Atma-Medium.ttf */,
+				5D3CF33388434AAEA3387696 /* Atma-Regular.ttf */,
+				266F43B51C5F4F4C9D764E6C /* Atma-SemiBold.ttf */,
+				5B10A7B6006A44799D6664CB /* Avenir.otf */,
+				3338F4834AFC4B6EBEE79D0E /* Avenir.ttc */,
+				A140A654C99E493BBA14F9C9 /* Elysian.otf */,
+				AD7D0B97A22049588A38327D /* fontello.ttf */,
+				45014994557A4EC587FF3A72 /* Helvetica-Bold.ttf */,
+				DE257F6F892847D49E94C0AD /* Helvetica-BoldOblique.ttf */,
+				F1A3153D356D40918A1D0530 /* helvetica-compressed-5871d14b6903a.otf */,
+				B0DD0364E9E144EFB96477C9 /* helvetica-light-587ebe5a59211.ttf */,
+				6137E1CE98014D4ABF5F4EBE /* Helvetica-Oblique.ttf */,
+				9B69C980A34740B68150D7B7 /* helvetica-rounded-bold-5871d05ead8de.otf */,
+				15507686AF714655A7FC93E5 /* Helvetica.ttf */,
+				EB448CC0664A4679B931BCF4 /* Matilda.ttf */,
+				6CC4C808201248BB8A7A3AF0 /* OpenSans-Bold.ttf */,
+				A83FF2F3E4C0415190AA2971 /* Overpass-Bold.ttf */,
+				FDD74CEA50A743BEA034A38C /* Overpass-ExtraBold.ttf */,
+				D6F2093A18034F27A96AF0DF /* UVNChimBienNhe.TTF */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -85,6 +174,7 @@
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				D65327D7A22EEC0BE12398D9 /* Pods */,
 				D7E4C46ADA2E9064B798F356 /* ExpoModulesProviders */,
+				7BAEF651591A4E5DA1D32069 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -119,8 +209,8 @@
 		D65327D7A22EEC0BE12398D9 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				6C2E3173556A471DD304B334 /* Pods-chachacoloringios.debug.xcconfig */,
-				7A4D352CD337FB3A3BF06240 /* Pods-chachacoloringios.release.xcconfig */,
+				1D881911D04B1292CE7D5FD5 /* Pods-chachacoloringios.debug.xcconfig */,
+				7F1EEA9846822CAD2502A045 /* Pods-chachacoloringios.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -140,13 +230,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "chachacoloringios" */;
 			buildPhases = (
-				08A4A3CD28434E44B6B9DE2E /* [CP] Check Pods Manifest.lock */,
+				F08073CB49F47AD855831BD3 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */,
+				CA8BEBAF2700F0ECDD63F56B /* [CP] Copy Pods Resources */,
+				5B0FB1D42812A45A00FFFD32 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -166,6 +257,7 @@
 				LastUpgradeCheck = 1130;
 				TargetAttributes = {
 					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = N576GF238V;
 						LastSwiftMigration = 1250;
 					};
 				};
@@ -196,6 +288,27 @@
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
+				5A11B02FA6D34F39A9A413D4 /* Atma-Bold.ttf in Resources */,
+				50C386E4CDD24D6784048A00 /* Atma-Light.ttf in Resources */,
+				EBF4A003F82641B18AE78A98 /* Atma-Medium.ttf in Resources */,
+				FF85AA34778742E288478C65 /* Atma-Regular.ttf in Resources */,
+				789F9CF9B5FC4442AF9EDB66 /* Atma-SemiBold.ttf in Resources */,
+				6B0F57AFCD2B403F8FB9EC6D /* Avenir.otf in Resources */,
+				47C4CC51650F4E54B92518FB /* Avenir.ttc in Resources */,
+				A3955C62566D4F78AAE6665B /* Elysian.otf in Resources */,
+				9ED8F4548B6342B588DFDC97 /* fontello.ttf in Resources */,
+				930ABCB62EEF4994B532242F /* Helvetica-Bold.ttf in Resources */,
+				8BE5529E548C4BE3A35F09AF /* Helvetica-BoldOblique.ttf in Resources */,
+				36CD5AE3936D4FC9BFA4C82E /* helvetica-compressed-5871d14b6903a.otf in Resources */,
+				C95E081519D4443B9D28677B /* helvetica-light-587ebe5a59211.ttf in Resources */,
+				272AA561BD65486DB9EF26E9 /* Helvetica-Oblique.ttf in Resources */,
+				F88E1C7C70E74A1C95F25908 /* helvetica-rounded-bold-5871d05ead8de.otf in Resources */,
+				4E43C5AA61A94B518C2BA6A6 /* Helvetica.ttf in Resources */,
+				93B1DCD293A7424EBDCB7F8F /* Matilda.ttf in Resources */,
+				BD0376D55DFE4822BF4F3750 /* OpenSans-Bold.ttf in Resources */,
+				3263EAAC259D42D79FDC2049 /* Overpass-Bold.ttf in Resources */,
+				17C67CCF881145BB83204A1F /* Overpass-ExtraBold.ttf in Resources */,
+				9BCA6D34FFF44D5BA6ABF50C /* UVNChimBienNhe.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +329,27 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n\n# The project root by default is one level up from the ios directory\nexport PROJECT_ROOT=\"$PROJECT_DIR\"/..\n\n`node --print \"require('path').dirname(require.resolve('react-native/package.json')) + '/scripts/react-native-xcode.sh'\"`\n";
 		};
-		08A4A3CD28434E44B6B9DE2E /* [CP] Check Pods Manifest.lock */ = {
+		CA8BEBAF2700F0ECDD63F56B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/EXConstants.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXConstants.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F08073CB49F47AD855831BD3 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -236,26 +369,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios-resources.sh",
-				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/EXConstants.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXConstants.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-chachacoloringios/Pods-chachacoloringios-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -295,12 +408,15 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6C2E3173556A471DD304B334 /* Pods-chachacoloringios.debug.xcconfig */;
+			baseConfigurationReference = 1D881911D04B1292CE7D5FD5 /* Pods-chachacoloringios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N576GF238V;
 				ENABLE_BITCODE = NO;
+				EXCLUDED_ARCHS = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
@@ -313,7 +429,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.name.chachacoloringios;
+				PRODUCT_BUNDLE_IDENTIFIER = org.name.demochachacoloringios;
 				PRODUCT_NAME = chachacoloringios;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -323,11 +439,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A4D352CD337FB3A3BF06240 /* Pods-chachacoloringios.release.xcconfig */;
+			baseConfigurationReference = 7F1EEA9846822CAD2502A045 /* Pods-chachacoloringios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N576GF238V;
+				EXCLUDED_ARCHS = "";
 				INFOPLIST_FILE = chachacoloringios/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -336,7 +454,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.name.chachacoloringios;
+				PRODUCT_BUNDLE_IDENTIFIER = org.name.demochachacoloringios;
 				PRODUCT_NAME = chachacoloringios;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";

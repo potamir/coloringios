@@ -46,4 +46,11 @@ target 'chachacoloringios' do
     end
   end
 
+  pod 'Permission-Camera', :path => "../node_modules/react-native-permissions/ios/Camera"
+  pod 'Permission-MediaLibrary', :path => "../node_modules/react-native-permissions/ios/MediaLibrary"
+  pod 'Permission-Microphone', :path => "../node_modules/react-native-permissions/ios/Microphone"
+  pod 'Permission-Notifications', :path => "../node_modules/react-native-permissions/ios/Notifications"
+  pod 'Permission-PhotoLibrary', :path => "../node_modules/react-native-permissions/ios/PhotoLibrary"
+  pod 'Permission-PhotoLibraryAddOnly', :path => "../node_modules/react-native-permissions/ios/PhotoLibraryAddOnly"
+
 end

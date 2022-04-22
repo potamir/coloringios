@@ -53,3 +53,7 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# Unity
+unity/
+ios/UnityExport/

@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text } from "react-native";
 import Toast from "react-native-toast-message";
-// import UnityView, { UnityModule } from "@asmadsen/react-native-unity-view";
+import UnityView, { UnityModule } from "@asmadsen/react-native-unity-view";
 import IconCircleButton from "../../../component/IconCircleButton";
 import { COLOR_APP_BLUE } from "../../../../res/style/AppStyle";
 import { sizeWidth } from "../../../util/Size";

@@ -99,8 +99,8 @@ export default class MainScreen extends Component {
             style={styles.logo}
             source={require("../../../res/assets/logo/chachalogo.png")}
           />
-          {this.renderNewPainting()}
           {this.renderScanPackaging()}
+          {this.renderNewPainting()}
           {/*
           <TouchableOpacity
           onPress={() => this.OnPressPaintedList(DataPaint)}

@@ -21,7 +21,6 @@
     },
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon_draw.png",
     "splash": {
       "image": "./assets/splash_3x.png",
       "resizeMode": "cover",

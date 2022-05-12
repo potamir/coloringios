@@ -197,15 +197,15 @@ export default class MainScreen extends Component {
   renderScanPackaging = () => {
     return (
       <CardViewBg
-        bgImage={require("../../../res/images_paint/mainScreen/scan-coming.jpg")}
-        bgImageStyle={styles.bgImageStyleComing}
+        bgImage={require("../../../res/images_paint/mainScreen/scan.jpg")}
+        bgImageStyle={styles.bgImageStyle}
         Img={new_painting}
         title={strings("menu.scan_packaging")}
         style={styles.newPainting}
         styleImg={styles.styleImg}
         styleTitle={{
           fontSize: sizeFont(4.5),
-          color: "rgba(255,255,255,0.25)",
+          color: "#fff",
         }}
         styleButton={{ width: sizeWidth(15), height: sizeWidth(15) }}
         backgroundColor={"#ff0000"}
@@ -213,7 +213,7 @@ export default class MainScreen extends Component {
         buttonSource={require("../../../res/images_paint/mainScreen/AR.png")}
         onPress={() => {
           //this._playRecording();
-          // NavigationActions.navigate("SceneSelection");
+          NavigationActions.navigate("SceneSelection");
         }}
       />
     );
@@ -291,12 +291,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   bgImageStyle: {
-    overflow: "hidden",
-    borderRadius: sizeWidth(5),
-    width: sizeWidth(75),
-    height: sizeWidth(55),
-  },
-  bgImageStyleComing: {
     overflow: "hidden",
     borderRadius: sizeWidth(5),
     width: sizeWidth(75),
